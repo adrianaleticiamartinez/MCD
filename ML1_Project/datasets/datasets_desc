@@ -1,1 +1,4 @@
- 
+ En esta carpeta podemos encontrar los datasets utilizados para el proyecto final de Aprendizaje Máquina 1:
+botwiki-2019: El cual contiene la información relacionada a posts y cuentas de bots en Twitter (ahora X) en el año 2019
+verified.2019: El cual contiene la información relacionada a posts y cuentas de cuentas verificadas de humanos en Twitter (ahora X) en el año 2019
+
